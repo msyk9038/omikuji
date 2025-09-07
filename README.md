@@ -1,31 +1,33 @@
 
-> Open this page at [https://msykmyt.github.io/omikuji/](https://msykmyt.github.io/omikuji/)
+# おみくじ
 
-## Use as Extension
+> このページを開く: [https://msykmyt.github.io/omikuji/](https://msykmyt.github.io/omikuji/)
 
-This repository can be added as an **extension** in MakeCode.
+## 拡張機能として使用
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/msykmyt/omikuji** and import
+このリポジトリは MakeCode の**拡張機能**として追加できます。
 
-## Edit this project ![Build status badge](https://github.com/msykmyt/omikuji/workflows/MakeCode/badge.svg)
+* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
+* **新しいプロジェクト**をクリック
+* 歯車メニューの下にある**拡張機能**をクリック
+* **https://github.com/msykmyt/omikuji** を検索してインポート
 
-To edit this repository in MakeCode.
+## このプロジェクトを編集 ![Build status badge](https://github.com/msykmyt/omikuji/workflows/MakeCode/badge.svg)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/msykmyt/omikuji** and click import
+このリポジトリを MakeCode で編集するには：
 
-## Blocks preview
+* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
+* **インポート**をクリックし、次に**URLからインポート**をクリック
+* **https://github.com/msykmyt/omikuji** を貼り付けてインポートをクリック
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+## ブロックプレビュー
 
-![A rendered view of the blocks](https://github.com/msykmyt/omikuji/raw/master/.github/makecode/blocks.png)
+この画像は master ブランチの最新コミットのブロックコードを表示しています。
+この画像の更新には数分かかる場合があります。
 
-#### Metadata (used for search, rendering)
+![ブロックのレンダリング表示](https://github.com/msykmyt/omikuji/raw/master/.github/makecode/blocks.png)
 
-* for PXT/microbit
+#### メタデータ（検索・レンダリング用）
+
+* PXT/microbit 用
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
